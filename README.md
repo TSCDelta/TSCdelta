@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-# TSCdelta
+# TSCdelta (Tanzim Chowdhury)
 
-Systems programmer who builds things to understand how they work.
+Student interested in Systems Programming. Building things to learn how they work.
 
 ## Projects
 
