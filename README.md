@@ -6,6 +6,7 @@ Systems programmer who builds things to understand how they work.
 
 ## Projects
 
+- 🎌 **animestream** - MyAnimeList clone built with React/Express using Jikan API for anime data and user list management $\textsf{\color{green} (done)}$
 - 🔴 **redis-mini** - Lightweight Redis implementation with asyncio, TTL support, AOF persistence, and batch operations (GET, SET, DEL, MGET, MSET, FLUSH) $\textsf{\color{orange} (currently building)}$
 - 🎯 **kando** - Kanban board made with Firebase, Next.js, and SocketIO $\textsf{\color{orange} (currently building)}$ 
 - 🐳 **dockeriser** $\textsf{\color{gray} (coming soon)}$ - Proof-of-concept container runtime in 150 lines of Python, adapted from Go concepts
