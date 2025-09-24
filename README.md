@@ -8,10 +8,10 @@ Student interested in Systems Programming. Building things to learn how they wor
 
 - 🎌 **animestream** - MyAnimeList clone built with React/Express using Jikan API for anime data and user list management $\textsf{\color{green} (done)}$
 - 🔴 **redis-mini** - Lightweight Redis implementation with asyncio, TTL support, AOF persistence, and batch operations (GET, SET, DEL, MGET, MSET, FLUSH) $\textsf{\color{orange} (currently building)}$
-- 🎯 **kando** - Kanban board made with Firebase, Next.js, and SocketIO $\textsf{\color{orange} (currently building)}$ 
+- 💥 **88-Chip** - Chip 8 emulator built in pygame $\textsf{\color{orange} (currently building)}$ 
 - 🐳 **dockeriser** $\textsf{\color{gray} (coming soon)}$ - Proof-of-concept container runtime in 150 lines of Python, adapted from Go concepts
 - ⚖️ **load-balancer** $\textsf{\color{gray} (coming soon)}$ - HTTP load balancer built with aiohttp for distributing requests across multiple backend servers
-- 💥 **88-Chip** $\textsf{\color{gray} (coming soon)}$ - Chip 8 emulator built in pygame
+
 
 ## Languages & Focus
 
