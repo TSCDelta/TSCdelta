@@ -11,7 +11,7 @@ Student interested in Systems Programming. Building things to learn how they wor
 - 🎌 [Animestream](https://github.com/TSCDelta/AnimeStream) - MyAnimeList clone built with React/Express using Jikan API for anime data and user list management $\textsf{\color{green} (done)}$
 - ⚖️ [Load Balancer](https://github.com/TSCDelta/LoadLoad) - HTTP load balancer built with aiohttp for distributing requests across multiple backend servers $\textsf{\color{green} (done)}$
 - 🔴 [Redis Mini ](https://github.com/TSCDelta/RedisMini)- Lightweight Redis implementation with asyncio, TTL support, AOF persistence, and batch operations (GET, SET, DEL, MGET, MSET, FLUSH) $\textsf{\color{orange} (currently building)}$ (Parser, Deparser, Server-Client done)
-- 💥 [88-Chip](https://github.com/TSCDelta/88-Chip] - Chip 8 emulator built in pygame $\textsf{\color{orange} (currently building)}$ (CPU done)
+- 💥 [88-Chip](https://github.com/TSCDelta/88-Chip) - Chip 8 emulator built in pygame $\textsf{\color{orange} (currently building)}$ (CPU done)
 - 🤑 [KanDo ](https://github.com/BuiltByInterns/KanDo) - Web-based kanban board application inspired by Trello, designed to help teams manage tasks and projects efficiently. $\textsf{\color{orange} (currently building)}$ 
 - 🐳 **dockeriser** $\textsf{\color{gray} (coming soon)}$ - Proof-of-concept container runtime in 150 lines of Python, adapted from Go concepts
 
