@@ -6,8 +6,8 @@ Student interested in Systems Programming. Building things to learn how they wor
 
 ## Projects
 
-- 🏹 [ToDoList](https://github.com/TSCDelta/ToDoList) -  Full-stack task management app built with React/Node.js featuring real-time updates and persistent storage  $\textsf{\color{green} (done)}$
-- 🐉 [Pokédex](https://github.com/TSCDelta/Pokedex) - Interactive Pokédex built with React/Node.js using PokéAPI for comprehensive Pokemon data and search functionality  $\textsf{\color{green} (done)}$
+- 🏹 [ToDoList](https://github.com/TSCDelta/ToDoList) -  Full-stack task management app built with React/Node.js featuring real-time updates and persistent storage   $\textsf{\color{green} (done)}$
+- 🐉 [Pokédex](https://github.com/TSCDelta/Pokedex) - Interactive Pokédex built with React/Node.js using PokéAPI for comprehensive Pokemon data and search functionality   $\textsf{\color{green} (done)}$
 - 🎌 [Animestream](https://github.com/TSCDelta/AnimeStream) - MyAnimeList clone built with React/Express using Jikan API for anime data and user list management $\textsf{\color{green} (done)}$
 - ⚖️ [Load Balancer](https://github.com/TSCDelta/LoadLoad) - HTTP load balancer built with aiohttp for distributing requests across multiple backend servers $\textsf{\color{green} (done)}$
 - 🔴 [Redis Mini ](https://github.com/TSCDelta/RedisMini)- Lightweight Redis implementation with asyncio, TTL support, AOF persistence, and batch operations (GET, SET, DEL, MGET, MSET, FLUSH) $\textsf{\color{orange} (currently building)}$ (Parser, Deparser, Server-Client done)
